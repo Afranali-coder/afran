@@ -44,7 +44,7 @@ def main():
         print("--------------")
         print("")
 
-        choice = input("Enter your choice: ")
+        choice = input("Enter your choice:  ")
 
         if choice == "1":
             try:
